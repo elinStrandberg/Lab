@@ -1,0 +1,11 @@
+C:\Users\straneli\source\repos\Lab\Exercise11\bin\Debug\netcoreapp2.1\Exercise11.deps.json
+C:\Users\straneli\source\repos\Lab\Exercise11\bin\Debug\netcoreapp2.1\Exercise11.runtimeconfig.json
+C:\Users\straneli\source\repos\Lab\Exercise11\bin\Debug\netcoreapp2.1\Exercise11.runtimeconfig.dev.json
+C:\Users\straneli\source\repos\Lab\Exercise11\bin\Debug\netcoreapp2.1\Exercise11.dll
+C:\Users\straneli\source\repos\Lab\Exercise11\bin\Debug\netcoreapp2.1\Exercise11.pdb
+C:\Users\straneli\source\repos\Lab\Exercise11\obj\Debug\netcoreapp2.1\Exercise11.csprojAssemblyReference.cache
+C:\Users\straneli\source\repos\Lab\Exercise11\obj\Debug\netcoreapp2.1\Exercise11.csproj.CoreCompileInputs.cache
+C:\Users\straneli\source\repos\Lab\Exercise11\obj\Debug\netcoreapp2.1\Exercise11.AssemblyInfoInputs.cache
+C:\Users\straneli\source\repos\Lab\Exercise11\obj\Debug\netcoreapp2.1\Exercise11.AssemblyInfo.cs
+C:\Users\straneli\source\repos\Lab\Exercise11\obj\Debug\netcoreapp2.1\Exercise11.dll
+C:\Users\straneli\source\repos\Lab\Exercise11\obj\Debug\netcoreapp2.1\Exercise11.pdb

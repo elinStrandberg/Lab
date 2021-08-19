@@ -1,0 +1,11 @@
+C:\Users\straneli\source\repos\Lab\Exercise9_HåkansLösning\bin\Debug\netcoreapp2.1\Exercise9_HåkansLösning.deps.json
+C:\Users\straneli\source\repos\Lab\Exercise9_HåkansLösning\bin\Debug\netcoreapp2.1\Exercise9_HåkansLösning.runtimeconfig.json
+C:\Users\straneli\source\repos\Lab\Exercise9_HåkansLösning\bin\Debug\netcoreapp2.1\Exercise9_HåkansLösning.runtimeconfig.dev.json
+C:\Users\straneli\source\repos\Lab\Exercise9_HåkansLösning\bin\Debug\netcoreapp2.1\Exercise9_HåkansLösning.dll
+C:\Users\straneli\source\repos\Lab\Exercise9_HåkansLösning\bin\Debug\netcoreapp2.1\Exercise9_HåkansLösning.pdb
+C:\Users\straneli\source\repos\Lab\Exercise9_HåkansLösning\obj\Debug\netcoreapp2.1\Exercise9_HåkansLösning.csprojAssemblyReference.cache
+C:\Users\straneli\source\repos\Lab\Exercise9_HåkansLösning\obj\Debug\netcoreapp2.1\Exercise9_HåkansLösning.csproj.CoreCompileInputs.cache
+C:\Users\straneli\source\repos\Lab\Exercise9_HåkansLösning\obj\Debug\netcoreapp2.1\Exercise9_HåkansLösning.AssemblyInfoInputs.cache
+C:\Users\straneli\source\repos\Lab\Exercise9_HåkansLösning\obj\Debug\netcoreapp2.1\Exercise9_HåkansLösning.AssemblyInfo.cs
+C:\Users\straneli\source\repos\Lab\Exercise9_HåkansLösning\obj\Debug\netcoreapp2.1\Exercise9_HåkansLösning.dll
+C:\Users\straneli\source\repos\Lab\Exercise9_HåkansLösning\obj\Debug\netcoreapp2.1\Exercise9_HåkansLösning.pdb

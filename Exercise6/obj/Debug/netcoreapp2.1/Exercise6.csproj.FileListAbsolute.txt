@@ -1,0 +1,11 @@
+C:\Users\straneli\source\repos\Lab\Exercise6\obj\Debug\netcoreapp2.1\Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\straneli\source\repos\Lab\Exercise6\obj\Debug\netcoreapp2.1\Exercise6.AssemblyInfoInputs.cache
+C:\Users\straneli\source\repos\Lab\Exercise6\obj\Debug\netcoreapp2.1\Exercise6.AssemblyInfo.cs
+C:\Users\straneli\source\repos\Lab\Exercise6\bin\Debug\netcoreapp2.1\Exercise6.deps.json
+C:\Users\straneli\source\repos\Lab\Exercise6\bin\Debug\netcoreapp2.1\Exercise6.runtimeconfig.json
+C:\Users\straneli\source\repos\Lab\Exercise6\bin\Debug\netcoreapp2.1\Exercise6.runtimeconfig.dev.json
+C:\Users\straneli\source\repos\Lab\Exercise6\bin\Debug\netcoreapp2.1\Exercise6.dll
+C:\Users\straneli\source\repos\Lab\Exercise6\bin\Debug\netcoreapp2.1\Exercise6.pdb
+C:\Users\straneli\source\repos\Lab\Exercise6\obj\Debug\netcoreapp2.1\Exercise6.dll
+C:\Users\straneli\source\repos\Lab\Exercise6\obj\Debug\netcoreapp2.1\Exercise6.pdb
+C:\Users\straneli\source\repos\Lab\Exercise6\obj\Debug\netcoreapp2.1\Exercise6.csprojAssemblyReference.cache

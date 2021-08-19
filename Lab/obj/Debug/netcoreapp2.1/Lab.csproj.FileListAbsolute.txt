@@ -1,0 +1,11 @@
+C:\Users\straneli\source\repos\Lab\Lab\bin\Debug\netcoreapp2.1\Lab.deps.json
+C:\Users\straneli\source\repos\Lab\Lab\bin\Debug\netcoreapp2.1\Lab.runtimeconfig.json
+C:\Users\straneli\source\repos\Lab\Lab\bin\Debug\netcoreapp2.1\Lab.runtimeconfig.dev.json
+C:\Users\straneli\source\repos\Lab\Lab\bin\Debug\netcoreapp2.1\Lab.dll
+C:\Users\straneli\source\repos\Lab\Lab\bin\Debug\netcoreapp2.1\Lab.pdb
+C:\Users\straneli\source\repos\Lab\Lab\obj\Debug\netcoreapp2.1\Lab.csprojAssemblyReference.cache
+C:\Users\straneli\source\repos\Lab\Lab\obj\Debug\netcoreapp2.1\Lab.csproj.CoreCompileInputs.cache
+C:\Users\straneli\source\repos\Lab\Lab\obj\Debug\netcoreapp2.1\Lab.AssemblyInfoInputs.cache
+C:\Users\straneli\source\repos\Lab\Lab\obj\Debug\netcoreapp2.1\Lab.AssemblyInfo.cs
+C:\Users\straneli\source\repos\Lab\Lab\obj\Debug\netcoreapp2.1\Lab.dll
+C:\Users\straneli\source\repos\Lab\Lab\obj\Debug\netcoreapp2.1\Lab.pdb

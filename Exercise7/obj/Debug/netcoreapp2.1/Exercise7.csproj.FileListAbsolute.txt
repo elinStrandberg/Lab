@@ -1,0 +1,10 @@
+C:\Users\straneli\source\repos\Lab\Exercise7\bin\Debug\netcoreapp2.1\Exercise7.deps.json
+C:\Users\straneli\source\repos\Lab\Exercise7\bin\Debug\netcoreapp2.1\Exercise7.runtimeconfig.json
+C:\Users\straneli\source\repos\Lab\Exercise7\bin\Debug\netcoreapp2.1\Exercise7.runtimeconfig.dev.json
+C:\Users\straneli\source\repos\Lab\Exercise7\bin\Debug\netcoreapp2.1\Exercise7.dll
+C:\Users\straneli\source\repos\Lab\Exercise7\bin\Debug\netcoreapp2.1\Exercise7.pdb
+C:\Users\straneli\source\repos\Lab\Exercise7\obj\Debug\netcoreapp2.1\Exercise7.csproj.CoreCompileInputs.cache
+C:\Users\straneli\source\repos\Lab\Exercise7\obj\Debug\netcoreapp2.1\Exercise7.AssemblyInfoInputs.cache
+C:\Users\straneli\source\repos\Lab\Exercise7\obj\Debug\netcoreapp2.1\Exercise7.AssemblyInfo.cs
+C:\Users\straneli\source\repos\Lab\Exercise7\obj\Debug\netcoreapp2.1\Exercise7.dll
+C:\Users\straneli\source\repos\Lab\Exercise7\obj\Debug\netcoreapp2.1\Exercise7.pdb

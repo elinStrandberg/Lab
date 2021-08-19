@@ -1,0 +1,11 @@
+C:\Users\straneli\source\repos\Lab\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.deps.json
+C:\Users\straneli\source\repos\Lab\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.runtimeconfig.json
+C:\Users\straneli\source\repos\Lab\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.runtimeconfig.dev.json
+C:\Users\straneli\source\repos\Lab\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.dll
+C:\Users\straneli\source\repos\Lab\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.pdb
+C:\Users\straneli\source\repos\Lab\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\straneli\source\repos\Lab\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.AssemblyInfoInputs.cache
+C:\Users\straneli\source\repos\Lab\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.AssemblyInfo.cs
+C:\Users\straneli\source\repos\Lab\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.dll
+C:\Users\straneli\source\repos\Lab\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.pdb
+C:\Users\straneli\source\repos\Lab\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.csprojAssemblyReference.cache

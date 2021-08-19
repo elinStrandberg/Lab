@@ -1,0 +1,10 @@
+C:\Users\straneli\source\repos\Lab\BoolskAlgebra\bin\Debug\netcoreapp2.1\BoolskAlgebra.deps.json
+C:\Users\straneli\source\repos\Lab\BoolskAlgebra\bin\Debug\netcoreapp2.1\BoolskAlgebra.runtimeconfig.json
+C:\Users\straneli\source\repos\Lab\BoolskAlgebra\bin\Debug\netcoreapp2.1\BoolskAlgebra.runtimeconfig.dev.json
+C:\Users\straneli\source\repos\Lab\BoolskAlgebra\bin\Debug\netcoreapp2.1\BoolskAlgebra.dll
+C:\Users\straneli\source\repos\Lab\BoolskAlgebra\bin\Debug\netcoreapp2.1\BoolskAlgebra.pdb
+C:\Users\straneli\source\repos\Lab\BoolskAlgebra\obj\Debug\netcoreapp2.1\BoolskAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\straneli\source\repos\Lab\BoolskAlgebra\obj\Debug\netcoreapp2.1\BoolskAlgebra.AssemblyInfoInputs.cache
+C:\Users\straneli\source\repos\Lab\BoolskAlgebra\obj\Debug\netcoreapp2.1\BoolskAlgebra.AssemblyInfo.cs
+C:\Users\straneli\source\repos\Lab\BoolskAlgebra\obj\Debug\netcoreapp2.1\BoolskAlgebra.dll
+C:\Users\straneli\source\repos\Lab\BoolskAlgebra\obj\Debug\netcoreapp2.1\BoolskAlgebra.pdb
